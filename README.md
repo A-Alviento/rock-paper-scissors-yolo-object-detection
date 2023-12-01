@@ -7,11 +7,11 @@ This project implements a Rock, Paper, Scissors detection system using the YOLO 
 - **NOTE: This project was tested on a windows 11 PC with RTX 3080Ti running CUDA=11.8 and python=3.8.0**
 - These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-### Prerequisites
+### Installations
 
 - To run this project, you'll need to have Python and Conda installed on your local machine. You can download Python [here](https://www.python.org/downloads/) and Conda [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html).
 
-### Installation
+### Run
 
 1. Clone the repository
     ```
@@ -35,6 +35,6 @@ This project implements a Rock, Paper, Scissors detection system using the YOLO 
 4. Open `train-model.ipynb` and follow the installation and subsequent instructions
 
 
-## Dataset
+## Acknowledgements
 
-The dataset used for this project can be found [here](https://universe.roboflow.com/roboflow-58fyf/rock-paper-scissors-sxsw/dataset/11).
+* The dataset used for this project can be found [here](https://universe.roboflow.com/roboflow-58fyf/rock-paper-scissors-sxsw/dataset/11).
